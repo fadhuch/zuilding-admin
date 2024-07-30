@@ -17,8 +17,18 @@ const nextConfig = {
         port: "",
         pathname: "/**",
       },
+      {
+        protocol: 'https',
+        hostname: 'picsum.photos',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
+  env: {
+    BASE_URL: process.env.BASE_URL,
+  },
+
 };
 
 module.exports = nextConfig;

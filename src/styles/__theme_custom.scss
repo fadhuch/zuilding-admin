@@ -167,21 +167,7 @@ button.gm-control-active.gm-fullscreen-control {
 
 .nc-p-l-container {
   padding-left: 16px;
-  @screen sm {
-    padding-left: calc((100vw + 32px - 640px) / 2);
-  }
-  @screen md {
-    padding-left: calc((100vw + 32px - 768px) / 2);
-  }
-  @screen lg {
-    padding-left: calc((100vw + 32px - 1024px) / 2);
-  }
-  @screen xl {
-    padding-left: calc((100vw + 80px - 1280px) / 2);
-  }
-  @screen 2xl {
-    padding-left: calc((100vw + 256px - 1536px) / 2);
-  }
+ 
 }
 
 .nc-p-r-container {

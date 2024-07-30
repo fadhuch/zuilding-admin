@@ -1,8 +1,3 @@
-# [Ciseco | Shop & eCommerce NextJS 14 Template](https://ciseco-nextjs-ecommerce.vercel.app) 
-
-![Homepage](https://github.com/UsmanLiaqat404/ciseco-nextjs-ecommerce/blob/main/src/images/demos/demo-1.png?raw=true)
-![Product Page](https://github.com/UsmanLiaqat404/ciseco-nextjs-ecommerce/blob/main/src/images/demos/demo-2.png?raw=true)
-
 ## Getting Started
 
 First, run the development server:
@@ -21,8 +16,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
